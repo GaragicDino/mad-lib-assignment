@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    background-color: white;
+    margin: auto;
+    width: 700px;
+    text-align: center;
+    padding: 30px 50px;
+}
+
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+    color: blue;
+    text-align: left;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+}
+
+ul {
+    text-align: justify
+}
+
+li {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 4px;
+}
+
+button {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: beige;
+    padding: 5px 10px 5px 10px;
+}
+
+
+    
+
+
+
